@@ -10,8 +10,6 @@
 
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-
   <img src="https://img.shields.io/badge/Business%20Intelligence-Insights-00897B?style=for-the-badge" alt="Business Intelligence"/>
 
 </p>
@@ -29,7 +27,6 @@
 The project transforms raw travel purchase data into structured analysis, interactive dashboards, business reports, and actionable insights using:
 
 - SQL
-- Microsoft Excel
 - Power BI
 - Python
 - Business Intelligence techniques
@@ -153,7 +150,6 @@ The dataset is used to analyze areas such as:
 | Tool / Technology | Purpose |
 |---|---|
 | 🟦 **SQL** | Data querying, filtering, aggregation, segmentation and business analysis |
-| 🟩 **Microsoft Excel** | Data preparation, exploration, calculations and supporting analysis |
 | 🟨 **Power BI** | Interactive dashboards, KPIs, visualization and business reporting |
 | 🐍 **Python** | Data exploration, analysis and supporting analytics |
 | 🐙 **GitHub** | Version control, project organization and documentation |
